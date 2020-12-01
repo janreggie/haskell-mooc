@@ -2,6 +2,10 @@
 
 Submissions for the exercises for the [Haskell MOOC](https://haskell.mooc.fi/).
 
+## Testing
+
+In testing some exercise `SetX.hs`, one can run `stack runhaskell SetXTest.hs`.
+
 ## LICENSE
 
 MIT License.
