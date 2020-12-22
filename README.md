@@ -4,6 +4,8 @@ Submissions for the exercises for the [Haskell MOOC](https://haskell.mooc.fi/).
 
 ## Testing
 
+Setting up can be done by running `stack build`.
+
 In testing some exercise `SetX.hs`, one can run `stack runhaskell SetXTest.hs`.
 
 ## LICENSE
